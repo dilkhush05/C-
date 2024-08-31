@@ -11,7 +11,7 @@ class A{
 class B{
     public:
     void func(){
-        cout<<" functin B wala call hua ";
+        cout<<" functin  wala call hua ";
     }
 };
 
